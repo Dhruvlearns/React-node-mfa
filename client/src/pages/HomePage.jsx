@@ -22,7 +22,7 @@ const HomePage = () => {
         <h2 className='text-xl font-semibold mb-4 '>
             Welcome , {user.username}!    
          </h2>
-         <p> you have successfull loggeedin  and verified your 2FA </p>
+         <p> you have successfull loggedin  and verified your 2FA </p>
          <button type='button' className='mt-4 bg-red-500 text-white  px-4 py-2 rounded '
          onClick={handleLogout}>
             Logout 
