@@ -3,6 +3,27 @@
 This project is a comprehensive full-stack web application that demonstrates secure user authentication with **Multi-Factor Authentication (MFA)**. The system provides a robust and secure way for users to register, log in, and protect their accounts with a second layer of verification using a time-based one-time password (**TOTP**).
 
 This README serves as a guide for developers to understand the project structure, set up the environment, and get the application running locally.
+### 📸 Screenshots
+
+Here is a visual overview of the application's key screens.
+
+
+_The login form for user authentication._
+<img width="1920" height="1080" alt="login page" src="https://github.com/user-attachments/assets/b3bf2c74-e529-48fc-87d6-da53a1adf876" />
+
+
+_The 2FA setup page, showing the QR code for authenticator apps._
+<img width="1920" height="1080" alt="2fapage" src="https://github.com/user-attachments/assets/fea77255-56c6-4dcc-b3bf-33704e00be5c" />
+
+
+_The page for verifying a time-based one-time password._
+<img width="1920" height="1080" alt="validation" src="https://github.com/user-attachments/assets/c190b926-201a-4528-a95e-02634437c2e0" />
+
+
+_The HomePage after successfully login._
+<img width="1920" height="1080" alt="Homepage" src="https://github.com/user-attachments/assets/1a04c98b-c0b7-49cd-aa64-2e36db088e1c" />
+
+
 
 ### ✨ Key Features
 
@@ -100,26 +121,6 @@ npm run dev
 ```
 
 The frontend will run on `http://localhost:3000` and the backend API will be available at `http://localhost:7001`.
-
-### 📸 Screenshots
-
-Here is a visual overview of the application's key screens.
-
-
-_The login form for user authentication._
-![loginpage](https://github.com/user-attachments/assets/00550c4f-2019-49ba-880b-a47e7b39c0bb)
-
-
-_The 2FA setup page, showing the QR code for authenticator apps._
-![setup-2fa](https://github.com/user-attachments/assets/dbb81cf2-0968-41c6-a072-2d904900116e)
-
-
-_The page for verifying a time-based one-time password._
-![verify-2fa](https://github.com/user-attachments/assets/d2b9aa4d-be9b-48ee-a308-191c3b6e41c5)
-
-_The HomePage after successfully login._
-![homepage](https://github.com/user-attachments/assets/137385a2-63b1-4943-95f4-c5522efe1dde)
-
 
 
 ### 📁 Folder Structure
