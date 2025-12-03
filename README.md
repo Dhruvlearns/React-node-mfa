@@ -9,19 +9,19 @@ Here is a visual overview of the application's key screens.
 
 
 _The login form for user authentication._
-<img width="1920" height="1080" alt="login page" src="https://github.com/user-attachments/assets/b3bf2c74-e529-48fc-87d6-da53a1adf876" />
+<img width="1859" height="1028" alt="login page" src="https://github.com/user-attachments/assets/ed8527b7-5265-41e1-b506-43e0316d7263" />
 
 
 _The 2FA setup page, showing the QR code for authenticator apps._
-<img width="1920" height="1080" alt="2fapage" src="https://github.com/user-attachments/assets/fea77255-56c6-4dcc-b3bf-33704e00be5c" />
+<img width="1863" height="1024" alt="2fapage" src="https://github.com/user-attachments/assets/b63d4c6d-abd1-466f-a17a-85ef7bdcb22c" />
 
 
 _The page for verifying a time-based one-time password._
-<img width="1920" height="1080" alt="validation" src="https://github.com/user-attachments/assets/c190b926-201a-4528-a95e-02634437c2e0" />
+<img width="1858" height="1026" alt="validation" src="https://github.com/user-attachments/assets/70d7b203-2034-4d65-88ce-fc264485b7d4" />
 
 
 _The HomePage after successfully login._
-<img width="1920" height="1080" alt="Homepage" src="https://github.com/user-attachments/assets/1a04c98b-c0b7-49cd-aa64-2e36db088e1c" />
+<img width="1860" height="1028" alt="Homepage" src="https://github.com/user-attachments/assets/37e3488c-c2ad-473d-a16f-ea22c113cef9" />
 
 
 
